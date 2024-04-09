@@ -14,10 +14,10 @@
 <img src="https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=SQLite&logoColor=white">
 
 ## Communication Tool
-<img src="https://img.shields.io/badge/Slack-#4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-#0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-<img src="https://img.shields.io/badge/Confluence-#172B4D?style=for-the-badge&logo=Confluence&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white">
 
 
 
