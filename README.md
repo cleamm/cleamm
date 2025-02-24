@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
 
 ## Back-end
-<img src="https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/MSSQL-red?style=for-the-badge&logo=&logoColor=white"><img src="https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=SQLite&logoColor=white"><img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=Flask&logoColor=white">
+<img src="https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"><img src="https://img.shields.io/badge/MSSQL-red?style=for-the-badge&logo=&logoColor=white"><img src="https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=SQLite&logoColor=white"><img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=Flask&logoColor=white">
 
 ## AI
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"><img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
